@@ -1,6 +1,6 @@
-# A 3D Developer Portfolio
+# My-Portfolio-Website-in-React
 
-Welcome to **A 3D Developer Portfolio**! This project is a modern, 3D portfolio built using React.js, Three.js, and TailwindCSS, showcasing cutting-edge web design skills and immersive experiences.
+Welcome to **My-Portfolio-Website-in-React**! This project is a modern, 3D portfolio built using React.js, Three.js, and TailwindCSS, showcasing cutting-edge web design skills and immersive experiences.
 
 ## 📋 Table of Contents
 - [🤖 Introduction](#🤖-introduction)
@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 
 ### Cloning the Repository
 ```bash
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
+git clone git@github.com:adrianhajdin/My_Portfolio_Website_in_React.git
 cd project_3D_developer_portfolio
 ```
 
