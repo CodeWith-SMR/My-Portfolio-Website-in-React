@@ -1,5 +1,7 @@
-![SMR](https://github.com/user-attachments/assets/d214e324-47a5-421b-8449-1b0f08b486f7)
-![SMR](https://github.com/user-attachments/assets/bb2fd5a8-866f-40b8-95e0-14e61eaf0e63)# My-Portfolio-Website-in-React
+![SMR](https://github.com/user-attachments/assets/96f38992-36fa-4ebb-98fc-f5926e461b24)
+
+
+# My-Portfolio-Website-in-React
 
 Welcome to **My-Portfolio-Website-in-React**! This project is a modern, 3D portfolio built using React.js, Three.js, and TailwindCSS, showcasing cutting-edge web design skills and immersive experiences.
 
